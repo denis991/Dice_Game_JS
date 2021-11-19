@@ -1,0 +1,19 @@
+{
+  "name": "dice_game_js",
+  "version": "1.0.0",
+  "description": "Игральные кости . Хочешь сыграть в игру, забыл кости тогда тебе к нам ).",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denis991/Dice_Game_JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denis991/Dice_Game_JS/issues"
+  },
+  "homepage": "https://github.com/denis991/Dice_Game_JS#readme"
+}
