@@ -38,3 +38,4 @@ button.addEventListener('click', () => {
 
 // рандомно ищим число
 const getRandomInt = () => Math.floor(Math.random() * (7 - 1)) + 1;
+
